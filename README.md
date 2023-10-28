@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meus Perfil! 😁
+## Bem-vindo(a) ao meu Perfil! 😁
 
  <div>
    <a href="https://github.com/Hellen-Leite">
