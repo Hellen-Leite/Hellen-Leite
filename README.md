@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu Perfil! 😁
+Uma jovem técnica em Redes de Computadores, formada em Serviço Social, e em busca de uma vaga no mercado de trabalho, como Front-End Junior!
 
  <div>
    <a href="https://github.com/Hellen-Leite">
